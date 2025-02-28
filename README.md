@@ -15,7 +15,7 @@ GitHub, Markdown dosyalarını (genellikle `.md` uzantılı) destekler. Böylece
 - **Başlıklar:** `# Başlık 1`, `## Başlık 2` gibi
 - **Kalın Yazı:** `**Bu kalın yazıdır**`
 - **İtalik Yazı:** `*Bu italik yazıdır*`
-- **Bağlantılar:** `[Google](https://campsite.bio/iptvli)`
+- **Bağlantılar:** [Google](https://campsite.bio/iptvli)
 
 ## Sonuç
 
